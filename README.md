@@ -13,4 +13,4 @@ The main two notebooks to run are
 All our generated music samples are in the folder ``generated_output``.
 Classifcal MIDI data collection can be found under ``midi_data``, grouped by instruments
 
-The folder `musicautobot` contains source code from [repo](https://github.com/bearpelican/musicautobot) as well as our modified ``transformer_XL_end2end``
+The folder `musicautobot` contains source code from [repo](https://github.com/bearpelican/musicautobot) as well as our modified ``transformer_XL_end2end.ipynb``
